@@ -3,8 +3,6 @@
     
     Chủ đề: Game MARKSMA là một game hành động bắn súng lấy cảm hứng từ game "Contra" , với sự cải tiến về hình ảnh.  Bước đầu game MARKSMA khá đơn giản, với việc giới hạn thời gian vượt qua các vật cản và quái vật trên đường đi để đến được đích. Game MARKSMA mang đến cho người chơi sự tò mò và thách thức để vượt qua thử thách .
     
-    Ngướng điểm mong muốn: tầm 7 điểm.
-    
     Lối chơi:
     Khởi đầu trò chơi với 5 mạng, bạn sẽ được trang bị một chiếc súng. Nhiệm vụ của bạn là di chuyển qua các vật cản trên đường đi  với những hố sâu và quái vật nguy hiểm . Hãy nhớ rằng đạn của bạn là vô hạn.
     Điều khiển:Thao tác bằng chuột và phím.
